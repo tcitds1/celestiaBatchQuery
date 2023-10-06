@@ -2,7 +2,7 @@
 
 ## 1. [安装 node.js](https://nodejs.org/zh-tw/download)
 
-## 2. 讲代码下载到本地，在根目录中执行 `npm i `
+## 2. 将代码下载到本地，在根目录中执行 `npm i `
 
 ## 3. 注册一个 [capsolver](https://dashboard.capsolver.com/passport/register?inviteCode=5RABgFowf082) 账号用来过验证码，查询账号少于100个只要充值几美金即可，支持加密货币。
 
